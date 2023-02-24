@@ -8,7 +8,7 @@
 10) Отредактировать содержание файла “new.json” написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата) === `vim new.json` ---> input data ---> esc ---> enter ":wq".
 11) Отправить изменения на внешний репозиторий === `git commit -am "comment" && git push`
 12) Создать файл preferences.json === `touch preferences.json`
-13) В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить)  === `vim preferences.json` ---> insert data ---> esc ---> enter ":wq"
+13) В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, страна которую хотели бы посетить)  === `vim preferences.json` ---> insert data ---> esc ---> enter ":wq"
 14) Создать файл skills.json  === `touch skills.json`
 15) Отправить сразу 2 файла на внешний репозиторий === `git add . && git commit -m "comment" && git push`
 16) На веб интерфейсе создать файл bug_report.json === Add file --> Create new file --> Name: bug_report.json
