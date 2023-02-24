@@ -1,6 +1,6 @@
 # JSON
 4) Создать внешний репозиторий c названием JSON === На вэбе Repositories --> New --> Repos Name:JSON --> Check "Add a README file" --> Press "Create repository"
-5) Клонировать репозиторий JSON на локальный компьютер === `git clone <repository HTTPS>`
+5) Клонировать репозиторий JSON на локальный компьютер === `git clone <repository SSH>`
 6) Внутри локального JSON создать файл "new.json" === `touch new.json`
 7) Добавить файл под гит === `git add new.json`
 8) Закоммитить файл === `git commit -m "comment"`
