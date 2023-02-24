@@ -1,19 +1,18 @@
 {
 	"ID": "47",
 	"Title": "Что, где, при каких условиях",
-	"Enviroment":
-	{
-		"OS": "Windows 10 Home",
-		"Browser": "Google Chrome"
+	"Enviroment": {
+			"OS": "Windows 10 Home",
+			"Browser": "Google Chrome"
 	},
-  "STR": {
+  	"STR": {
 		"STEP_1":"step",
 		"STEP_2":"step"
-  },
+  	},
 	"Build": "1.3",
-  "Expected result": "Description of expected result",
+  	"Expected result": "Description of expected result",
 	"Actual result": "Description of actual result",
-  "Severity": "ASAP",
+  	"Severity": "ASAP",
 	"Priority": "High",
 	"Status": "Open",
 	"Attachments": "LINK"
